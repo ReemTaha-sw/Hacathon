@@ -87,8 +87,9 @@ To ensure security, scalability, and a seamless user experience, we chose the fo
 ### **Steps:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone git@github.com:ReemTaha-sw/Hacathon.git
+   cd /light-theme/examples
+- Open dashboard.html in chrome browser 
    
 2. Backend Setup:
   - Navigate to the backend folder:
@@ -101,7 +102,6 @@ To ensure security, scalability, and a seamless user experience, we chose the fo
 
 ---
 
----
 
 ## **Future Improvements**
 
